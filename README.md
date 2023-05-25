@@ -1,4 +1,5 @@
 # Descrição do Aplicativo - Gerenciador de Participantes de Eventos 📋👥📅
+![ezgif com-video-to-gif](https://github.com/pedrohd21/App-Gerenciador-Participantes-Eventos/assets/67549131/cb6bde43-e763-47b3-ab09-e68e6c0fc525)
 
 O aplicativo de Gerenciador de Participantes de Eventos permite adicionar e remover pessoas de um evento. Com uma interface intuitiva, é possível registrar a presença de cada participante e, quando nenhum participante estiver presente, exibir uma mensagem indicando que ninguém chegou ao evento. Facilite o controle e organização dos participantes do seu evento com essa aplicação prática e eficiente. ✨📱
 
