@@ -1,14 +1,15 @@
-# Descrição do Aplicativo - Gerenciador de Participantes de Eventos
+# Descrição do Aplicativo - Gerenciador de Participantes de Eventos 📋👥📅
 
-O aplicativo de Gerenciador de Participantes de Eventos permite adicionar e remover pessoas de um evento. Com uma interface intuitiva, é possível registrar a presença de cada participante e, quando nenhum participante estiver presente, exibir uma mensagem indicando que ninguém chegou ao evento. Facilite o controle e organização dos participantes do seu evento com essa aplicação prática e eficiente.
+O aplicativo de Gerenciador de Participantes de Eventos permite adicionar e remover pessoas de um evento. Com uma interface intuitiva, é possível registrar a presença de cada participante e, quando nenhum participante estiver presente, exibir uma mensagem indicando que ninguém chegou ao evento. Facilite o controle e organização dos participantes do seu evento com essa aplicação prática e eficiente. ✨📱
 
-## Executando o Projeto
+## Executando o Projeto ▶️
+
 Para executar o projeto, siga os passos abaixo:
 
-1. Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+1. Certifique-se de ter o Node.js e o npm instalados em sua máquina. 🖥️
 2. Abra o terminal na pasta raiz do projeto.
-3. Execute o comando `npm install` para instalar as dependências necessárias.
-4. Em seguida, execute o comando `expo start` para iniciar o aplicativo.
+3. Execute o comando `npm install` para instalar as dependências necessárias. ⬇️
+4. Em seguida, execute o comando `expo start` para iniciar o aplicativo. 🚀
 
 Certifique-se de que as seguintes dependências estejam presentes no arquivo `package.json`:
 ```
@@ -22,4 +23,4 @@ Certifique-se de que as seguintes dependências estejam presentes no arquivo `pa
 }
 ```
 
-Agora você está pronto para usar o aplicativo de Gerenciador de Participantes de Eventos e desfrutar de todas as suas funcionalidades. Divirta-se!
+Agora você está pronto para usar o aplicativo de Gerenciador de Participantes de Eventos e desfrutar de todas as suas funcionalidades. Divirta-se! 🎉👏
