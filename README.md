@@ -9,7 +9,7 @@ Para executar o projeto, siga os passos abaixo:
 1. Certifique-se de ter o Node.js e o npm instalados em sua máquina. 🖥️
 2. Abra o terminal na pasta raiz do projeto.
 3. Execute o comando `npm install` para instalar as dependências necessárias. ⬇️
-4. Em seguida, execute o comando `expo start` para iniciar o aplicativo. 🚀
+4. Em seguida, execute o comando `expo start` ou `npx expo start` se não tiver o Expo instalado em sua máquina, para iniciar o aplicativo. 🚀
 
 Certifique-se de que as seguintes dependências estejam presentes no arquivo `package.json`:
 ```
